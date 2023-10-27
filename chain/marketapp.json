@@ -28,7 +28,7 @@
 		"id": "ecrox-locker",
 		"title": "Ecrox Token Locker",
 		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
-		"categories": [ "Locker"],
+		"categories": [ "Token Locker"],
 		"shortDescription": "Ecrox Token Locker is a secure digital wallet and smart contract platform designed to safeguard and manage various cryptocurrencies and digital assets. ",
 		"external": true,
 		"site": "https://ecroxlocker.com",
