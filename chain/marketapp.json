@@ -156,18 +156,6 @@
 		"url": "https://ecroxp2p.com"
 	},
 	{
-		"author": "Ecrox ATM Machine",
-		"id": "ecrox-atm",
-		"title": "Ecrox ATM Machine",
-		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
-		"categories": [ "ATM"],
-		"shortDescription": "Ecrox ATM Machine is a state-of-the-art automated teller machine designed to provide convenient and secure access to banking services. It features a sleek and user-friendly interface, enabling customers to withdraw cash, check their account balances, transfer funds, and perform various banking transactions with ease. ",
-		"external": true,
-		"site": "https://ecroxcoin.io",
-		"description": "Ecrox ATM Machine is a state-of-the-art automated teller machine designed to provide convenient and secure access to banking services. It features a sleek and user-friendly interface, enabling customers to withdraw cash, check their account balances, transfer funds, and perform various banking transactions with ease. The Ecrox ATM Machine incorporates advanced security measures, such as encryption and biometric authentication, to safeguard user information and financial data. Its robust and reliable design ensures 24/7 availability, making it a trusted choice for both customers and financial institutions.",
-		"url": "https://ecroxcoin.io"
-	},
-	{
 		"author": "Ecrox Short Video",
 		"id": "ecrox-video",
 		"title": "Ecrox Short Video",
