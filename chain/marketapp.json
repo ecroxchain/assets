@@ -10,5 +10,17 @@
 		"external": true,
 		"description": "The most popular AMM on ECROX by user count! Earn ECROXSWAP through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by ECROXSWAP), NFTs, and more, on a platform you can trust.",
 		"url": "https://ecroxswap.com/"
-	}
+	},
+	  {
+		"author": "Ecrox Token Bridge",
+		"id": "ecrox-bridge",
+		"title": "Ecrox Token Bridge",
+		"logo": "https://ecroxscan.com/static/SWAP.png",
+		"categories": [ "Bridge"],
+		"shortDescription": "The Ecrox Token Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from Other EVM Blockchain",
+		"external": true,
+		"site": "https://bridge.ecroxscan.com",
+		"description": " Ecrox Token Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from MiexsChain",
+		"url": "https://bridge.ecroxscan.com/"
+		  },
 ]
