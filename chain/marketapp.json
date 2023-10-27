@@ -1,7 +1,7 @@
 [
 	{
 		"author": "Ecrox Swap",
-		"id": "ECROXSWAP",
+		"id": "ecrox-swap",
 		"title": "Ecrox Swap",
 		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
 		"categories": ["DEX"],
@@ -41,11 +41,11 @@
 		"title": "Ecrox NFT Marketplace",
 		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
 		"categories": [ "NFT Marketplace"],
-		"shortDescription": "The Ecrox Token Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from Other EVM Blockchain",
+		"shortDescription": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts.",
 		"external": true,
-		"site": "http://ecroxnft.com/",
-		"description": " Ecrox Token Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from MiexsChain",
-		"url": "https://bridge.ecroxscan.com/"
+		"site": "http://ecroxnft.com",
+		"description": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts. Whether you're an NFT artist looking to monetize your work or an art lover seeking to discover and acquire one-of-a-kind digital treasures, Ecrox NFT Marketplace is the perfect destination to explore the world of digital collectibles.",
+		"url": "https://ecroxnft.com"
 	},
 	{
 		"author": "Ecrox Staking",
