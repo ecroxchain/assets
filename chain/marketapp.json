@@ -36,18 +36,6 @@
 		"url": "https://ecroxlocker.com"
 	},
 	{
-		"author": "Ecrox NFT Marketplace",
-		"id": "ecrox-nft",
-		"title": "Ecrox NFT Marketplace",
-		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
-		"categories": [ "NFT Marketplace"],
-		"shortDescription": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts.",
-		"external": true,
-		"site": "http://ecroxnft.com",
-		"description": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts. Whether you're an NFT artist looking to monetize your work or an art lover seeking to discover and acquire one-of-a-kind digital treasures, Ecrox NFT Marketplace is the perfect destination to explore the world of digital collectibles.",
-		"url": "https://ecroxnft.com"
-	},
-	{
 		"author": "Ecrox Staking",
 		"id": "ecrox-staking",
 		"title": "Ecrox Staking",
@@ -58,6 +46,18 @@
 		"site": "https://staking.ecroxscan.com",
 		"description": "Ecrox Chain Staking is a powerful and user-friendly method for cryptocurrency holders to earn passive income while supporting the Ecrox blockchain network. By participating in staking, users can lock their tokens into the network, helping to secure and validate transactions. In return, they receive regular rewards in the form of additional tokens, making it an attractive option for those looking to grow their digital assets and actively contribute to the blockchain ecosystem. Ecrox Chain Staking combines financial benefits with network strengthening, creating a win-win scenario for crypto enthusiasts.",
 		"url": "https://staking.ecroxscan.com"
+	},
+	{
+		"author": "Ecrox NFT Marketplace",
+		"id": "ecrox-nft",
+		"title": "Ecrox NFT Marketplace",
+		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
+		"categories": [ "NFT Marketplace"],
+		"shortDescription": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts.",
+		"external": true,
+		"site": "http://ecroxnft.com",
+		"description": "Ecrox NFT Marketplace is a cutting-edge digital platform designed for creators and collectors alike. This innovative marketplace provides a secure and user-friendly environment for buying, selling, and trading non-fungible tokens (NFTs). With a sleek and intuitive interface, Ecrox empowers artists, musicians, and digital creators to showcase their unique digital assets and connect with a global community of NFT enthusiasts. Whether you're an NFT artist looking to monetize your work or an art lover seeking to discover and acquire one-of-a-kind digital treasures, Ecrox NFT Marketplace is the perfect destination to explore the world of digital collectibles.",
+		"url": "https://ecroxnft.com"
 	},
 	{
 		"author": "Ecrox Wallet",
