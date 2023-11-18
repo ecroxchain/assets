@@ -36,6 +36,18 @@
 		"url": "https://ecroxlocker.com"
 	},
 	{
+		"author": "Ecrox Multi Sender",
+		"id": "ecrox-sender",
+		"title": "Ecrox Multi Sender",
+		"logo": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
+		"categories": [ "Multi Sender"],
+		"shortDescription": "Ecrox Multi Sender - Send ECROX-20 Tokens and NFTs (ECROX-721 and ECROX-1155) in batch.",
+		"external": true,
+		"site": "https://ecroxmultisender.com/",
+		"description": "Ecrox Multi Sender - Send ECROX-20 Tokens and NFTs (ECROX-721 and ECROX-1155) in batch.",
+		"url": "https://ecroxmultisender.com/"
+	},
+	{
 		"author": "Ecrox Staking",
 		"id": "ecrox-staking",
 		"title": "Ecrox Staking",
