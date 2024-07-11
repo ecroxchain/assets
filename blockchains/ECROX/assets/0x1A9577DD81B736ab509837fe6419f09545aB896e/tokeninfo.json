@@ -19,8 +19,8 @@
   "coinMarketCapTicker": "https://coinmarketcap.com/",
   "coinGeckoTicker": "https://coingecko.com/",
   "defiLlamaTicker": "",
-  "requesterEmail": '',
-  "requesterName": '',
-  "updatedAt": '',
-  "tokenAddress": ''
+  "requesterEmail": "",
+  "requesterName": "",
+  "updatedAt": "",
+  "tokenAddress": ""
 }
