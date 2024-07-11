@@ -19,11 +19,10 @@
   "support": "info@bmytcoin.com",
   "coinMarketCapTicker": "https://coinmarketcap.com/",
   "coinGeckoTicker": "https://coingecko.com/",
-  "coinCodexLink": "https://coincodex.com/",
+  "coinCodex": "https://coincodex.com/",
   "defiLlamaTicker": "",
   "requesterEmail": "",
   "requesterName": "",
   "updatedAt": "",
   "tokenAddress": ""
 }
-
