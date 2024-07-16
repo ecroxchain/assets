@@ -178,7 +178,7 @@
 		"site": "https://thirdweb.com/",
 		"description": "The fastest way tobuild web3 apps. SDKs in every language, smart contracts, tools, and infrastructure for web3 development",
 		"url": "https://thirdweb.com/"
-	}
+	},
 	{
 		"author": "Brave Wallet",
 		"id": "brave-wallet",
@@ -190,7 +190,7 @@
 		"site": "https://brave.com/wallet",
 		"description": "The secure multi-chain crypto wallet. Store, manage, and grow your crypto portfolio. Buy with fiat via Ramp Network or Wyre.",
 		"url": "https://brave.com/wallet"
-	}
+	},
 	{
 		"author": "MetaMask",
 		"id": "metamask-wallet",
@@ -202,7 +202,7 @@
 		"site": "https://metamask.io/",
 		"description": "A crypto wallet & gateway to blockchain apps. Start exploring blockchain applications in seconds. Trusted by over 1 million users worldwide.",
 		"url": "https://metamask.io/"
-	}
+	},
 	{
 		"author": "Trust Wallet",
 		"id": "trust-wallet",
