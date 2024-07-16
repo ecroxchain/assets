@@ -169,7 +169,7 @@
 	},
 	{
 		"author": "Third Web",
-		"id": "hukoko-video",
+		"id": "third-web",
 		"title": "Third Web",
 		"logo": "https://blockscout-content.s3.amazonaws.com/thirdweb.jpg",
 		"categories": [ "Dev Toolings"],
@@ -178,6 +178,42 @@
 		"site": "https://thirdweb.com/",
 		"description": "The fastest way tobuild web3 apps. SDKs in every language, smart contracts, tools, and infrastructure for web3 development",
 		"url": "https://thirdweb.com/"
+	}
+	{
+		"author": "Brave Wallet",
+		"id": "brave-wallet",
+		"title": "Brave Wallet",
+		"logo": "https://blockscout-content.s3.amazonaws.com/brave-wallet.png",
+		"categories": [ "Wallets"],
+		"shortDescription": "The secure multi-chain crypto wallet. Store, manage, and grow your crypto portfolio. Buy with fiat via Ramp Network or Wyre.",
+		"external": true,
+		"site": "https://brave.com/wallet",
+		"description": "The secure multi-chain crypto wallet. Store, manage, and grow your crypto portfolio. Buy with fiat via Ramp Network or Wyre.",
+		"url": "https://brave.com/wallet"
+	}
+	{
+		"author": "MetaMask",
+		"id": "metamask-wallet",
+		"title": "MetaMask",
+		"logo": "https://blockscout-content.s3.amazonaws.com/brave-wallet.png",
+		"categories": [ "Wallets"],
+		"shortDescription": "A crypto wallet & gateway to blockchain apps. Start exploring blockchain applications in seconds. Trusted by over 1 million users worldwide.",
+		"external": true,
+		"site": "https://metamask.io/",
+		"description": "A crypto wallet & gateway to blockchain apps. Start exploring blockchain applications in seconds. Trusted by over 1 million users worldwide.",
+		"url": "https://metamask.io/"
+	}
+	{
+		"author": "Trust Wallet",
+		"id": "trust-wallet",
+		"title": "Trust Wallet",
+		"logo": "https://blockscout-content.s3.amazonaws.com/TrustWallet.png",
+		"categories": [ "Wallets"],
+		"shortDescription": "Buy, store, collect NFTs, exchange & earn crypto. Join 10 million+ people using Trust Wallet.",
+		"external": true,
+		"site": "https://trustwallet.com/",
+		"description": "Buy, store, collect NFTs, exchange & earn crypto. Join 10 million+ people using Trust Wallet.",
+		"url": "https://trustwallet.com/"
 	}
 	
 ]
