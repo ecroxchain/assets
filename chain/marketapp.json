@@ -168,15 +168,16 @@
 		"url": "https://ecroxp2p.com"
 	},
 	{
-		"author": "Hukoko App",
+		"author": "Third Web",
 		"id": "hukoko-video",
-		"title": "Hukoko App",
-		"logo": "https://raw.githubusercontent.com/ecroxchain/Ecosystem-Logos/main/hukoko.png",
-		"categories": [ "Social"],
-		"shortDescription": "Hukoko Short Video is an innovative social media platform that rewards users for sharing their creative and engaging short videos. With Ecrox Coin, you can earn rewards and incentives for your content, turning your talent and creativity into tangible benefits. Join the Ecrox community today, share your videos, and start earning Ecrox Coin for your captivating content.",
+		"title": "Third Web",
+		"logo": "https://blockscout-content.s3.amazonaws.com/thirdweb.jpg",
+		"categories": [ "Dev Toolings"],
+		"shortDescription": "The fastest way tobuild web3 apps. SDKs in every language, smart contracts, tools, and infrastructure for web3 development",
 		"external": true,
-		"site": "https://ecroxvideo.com",
-		"description": "Hukoko Short Video is an innovative social media platform that rewards users for sharing their creative and engaging short videos. With Ecrox Coin, you can earn rewards and incentives for your content, turning your talent and creativity into tangible benefits. Join the Ecrox community today, share your videos, and start earning Ecrox Coin for your captivating content. It's the ultimate destination for content creators looking to turn their passion into rewards.",
-		"url": "https://hukoko.io/"
+		"site": "https://thirdweb.com/",
+		"description": "The fastest way tobuild web3 apps. SDKs in every language, smart contracts, tools, and infrastructure for web3 development",
+		"url": "https://thirdweb.com/"
 	}
+	
 ]
