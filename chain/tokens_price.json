@@ -1,3 +1,13 @@
 {
-  "0x8b3fbd75DD4DC68E3F5a95fc6f9c7c713149d6E8": "10.01"
+  "code": "0",
+  "msg": "suc",
+  "data": {
+      "ticker": [
+        {
+          "address": "",
+          "price": ""
+        }
+      ]
+  },
+  "message": null
 }
