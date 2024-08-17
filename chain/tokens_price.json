@@ -4,10 +4,6 @@
   "data": {
       "ticker": [
         {
-          "address": "0xd64d22F76383422D92F3a6510a6fe37964762cB0",
-          "price": "0.01200000"
-        },
-        {
           "address": "0x40662e09C1a421d8b8a661fdD59c183516Db93Ac",
           "price": "1.00000000"
         },
