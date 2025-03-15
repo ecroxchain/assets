@@ -115,6 +115,10 @@
           "address": "0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8",
           "price": "0.50000000"
         },
+        {
+          "address": "0x95b644D376E0a5e122Df798d0eC91B3D9679b858",
+          "price": "1.00000000"
+        }
       ]
   },
   "message": null
