@@ -118,6 +118,10 @@
         {
           "address": "0x95b644D376E0a5e122Df798d0eC91B3D9679b858",
           "price": "1.00000000"
+        },
+        {
+          "address": "0x65387DBFAFf73A28C8dc5F622Eee116Fa8E26070",
+          "price": "1.00000000"
         }
       ]
   },
