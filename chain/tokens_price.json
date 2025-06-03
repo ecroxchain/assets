@@ -952,6 +952,26 @@
           "price": "1.20000000"
         },
         {
+          "address": "0x33DA6FFb6e2859b2cc85B1211269354a8f0ddD19",
+          "price": "2.00000000"
+        },
+        {
+          "address": "0xF5F996dBB280fb2c6eCB43A755ffD8feDe031a38",
+          "price": "1.50000000"
+        },
+        {
+          "address": "0xb4E676782a0D5785240F903571bD24A453A43Ab5",
+          "price": "8.00000000"
+        },
+        {
+          "address": "0x30E4b7338E5466735c3E78B3c4Af648577a4b560",
+          "price": "0.75000000"
+        },
+        {
+          "address": "0x04e0e991Cdce9BC4541828B8Eab85e403CFf7024",
+          "price": "12.50000000"
+        }
+        {
           "address": "0x386059e8280753ba76d1B5C953885F970bD5a725",
           "price": "5.00000000"
         }
