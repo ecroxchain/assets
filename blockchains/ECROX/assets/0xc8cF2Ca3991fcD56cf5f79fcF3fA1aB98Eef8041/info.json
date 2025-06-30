@@ -1,1 +1,20 @@
 
+{
+  "projectWebsite": "https://trillionxcoin.com",
+  "projectEmail": "info@trillionxcoin.com",
+  "iconUrl": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xc8cF2Ca3991fcD56cf5f79fcF3fA1aB98Eef8041/logo.png",
+  "projectDescription": "TrillionX Coin (XTRN) is a next-generation digital asset developed on the Ecrox Chain Blockchain. It integrates innovative tokenomics with sector-based taxation to support development, marketing, ecosystem rewards, and burn mechanisms. Designed for scalability and utility, TrillionX Coin is revolutionizing the future of decentralized finance and token-driven ecosystems with zero gas fees on Ecrox Chain.",
+  "projectSector": "DeFi, Blockchain, Utility Token",
+  "docs": "https://docs.trillionxcoin.com",
+  "facebook": "https://www.facebook.com/trillionxcoin",
+  "twitter": "https://twitter.com/trillionxcoin",
+  "instagram": "https://instagram.com/trillionxcoin",
+  "linkedin": "https://www.linkedin.com/company/trillionxcoin",
+  "github": "https://github.com/trillionxcoin",
+  "telegram": "https://t.me/trillionxcoinofficial",
+  "support": "support@trillionxcoin.com",
+  "requesterEmail": "info@trillionxcoin.com",
+  "requesterName": "TrillionX",
+  "updatedAt": "2025-06-29T00:00:00Z",
+  "tokenAddress": "0xc8cF2Ca3991fcD56cf5f79fcF3fA1aB98Eef8041"
+}
