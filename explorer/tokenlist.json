@@ -1,0 +1,101 @@
+{
+  "name": "ECROX Token List",
+  "tokens": [
+    {
+      "chainId": 988207,
+      "address": "0x8F748d6eAaca6D1b15A2D829e773Ce036c64bDb1",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x8F748d6eAaca6D1b15A2D829e773Ce036c64bDb1.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0xfeEB016d4265A1d675b17AF34fAa6493f2f0e0CA",
+      "name": "Wrapped Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0xfeEB016d4265A1d675b17AF34fAa6493f2f0e0CA.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0xbF7A7510453F0c25f2b1D0B5fe527F38B8b98b1C",
+      "name": "Wrapped Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0xbF7A7510453F0c25f2b1D0B5fe527F38B8b98b1C.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x367D523c080623b1E2F28d808986fdef66FDF98E",
+      "name": "Wrapped BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x367D523c080623b1E2F28d808986fdef66FDF98E.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x9a97d5760e5F377DB14132eDf8167fC6a163ba0d",
+      "name": "Wrapped Cardano",
+      "symbol": "ADA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x9a97d5760e5F377DB14132eDf8167fC6a163ba0d.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x3321043cf64f6b1CD0C6626e330338d9F5f2781b",
+      "name": "Wrapped Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x3321043cf64f6b1CD0C6626e330338d9F5f2781b.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0xa8B5B6cb9Fb95BAc0965922Bd46182284DF44ec9",
+      "name": "Wrapped Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0xa8B5B6cb9Fb95BAc0965922Bd46182284DF44ec9.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0xf516d3fC3928551CBa697C7F9f60f3bC8F35A46B",
+      "name": "Wrapped Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0xf516d3fC3928551CBa697C7F9f60f3bC8F35A46B.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x9FBD72926f414EDf45fC57bdEF577F8fe75d932D",
+      "name": "Wrapped Solana",
+      "symbol": "SOL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x9FBD72926f414EDf45fC57bdEF577F8fe75d932D.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x2c76ae7FfE4753632c4e40B6b8c4505d8c08d904",
+      "name": "Wrapped TRON",
+      "symbol": "TRON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x2c76ae7FfE4753632c4e40B6b8c4505d8c08d904.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0x55360d1787922043Ac0c27C7a915E0b541198625",
+      "name": "Wrapped USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x55360d1787922043Ac0c27C7a915E0b541198625.png"
+    },
+    {
+      "chainId": 988207,
+      "address": "0xcEF1a18BebCd03996019a85CAc5e40e5474b6C85",
+      "name": "Wrapped XRP",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0xcEF1a18BebCd03996019a85CAc5e40e5474b6C85.png"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Company",
+    "links": [
+      {
+        "text": "About Us",
+        "url": "https://docs.ecroxscan.com/"
+      },
+      {
+        "text": "Brand Assets",
+        "url": ""
+      },
+      {
+        "text": "Contacts Us",
+        "url": "mailto:info@ecroxcoin.io"
+      },
+      {
+        "text": "Careers",
+        "url": ""
+      },
+      {
+        "text": "Terms of Service",
+        "url": ""
+      },
+      {
+        "text": "Bug Bounty",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "Ecrox Network Ecosystem",
+    "links": [
+      {
+        "text": "Ecrox Coin",
+        "url": "https://ecroxcoin.io/"
+      },
+      {
+        "text": "Ecrox Swap",
+        "url": "https://ecroxswap.com/"
+      },
+      {
+        "text": "Ecrox NFT Marketplace",
+        "url": "https://www.ecroxnft.com/"
+      },
+      {
+        "text": "Ecrox Staking",
+        "url": "https://staking.ecroxscan.com/"
+      },
+      {
+        "text": "Ecrox Wallet",
+        "url": ""
+      },
+      {
+        "text": "Ecrox Exchange",
+        "url": "https://ecroxexchange.com/"
+      },
+      {
+        "text": "Ecrox Metaverse",
+        "url": "https://ecroxmetaverse.com/"
+      },
+      {
+        "text": "Ecrox Cross Bridge",
+        "url": "https://bridge.ecroxscan.com/"
+      }
+    ]
+  },
+  {
+    "title": "Products & Services",
+    "links": [
+      {
+        "text": "Advertise",
+        "url": ""
+      },
+      {
+        "text": "Explorer-as-a Service (EaaS)",
+        "url": ""
+      },
+      {
+        "text": "API Plans",
+        "url": ""
+      },
+      {
+        "text": "Priority Support",
+        "url": ""
+      },
+      {
+        "text": "Blockscan",
+        "url": ""
+      },
+      {
+        "text": "Blockscan Chat",
+        "url": ""
+      }
+    ]
+  }
+]

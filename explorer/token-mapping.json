@@ -1,0 +1,16 @@
+{
+  "0x8F748d6eAaca6D1b15A2D829e773Ce036c64bDb1": {
+    "symbol": "USDT",
+    "cmc_id": 825,
+    "coingecko_id": "tether",
+    "original_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "platform": "ethereum"
+  },
+  "0xfeEB016d4265A1d675b17AF34fAa6493f2f0e0CA": {
+    "symbol": "AVAX",
+    "cmc_id": 5805,
+    "coingecko_id": "avalanche-2",
+    "original_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "platform": "avalanche"
+  }
+}

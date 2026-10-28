@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Ecrox Chain Mainnet",
+    "url": "https://ecroxscan.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/ecroxchain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": false,
+    "isActive": false
+  },
+  {
+    "title": "Ecrox Chain Testnet",
+    "url": "https://testnet.ecroxscan.com",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/ecroxchain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": false,
+    "isActive": true
+  }
+]
